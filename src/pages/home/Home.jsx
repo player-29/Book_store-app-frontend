@@ -1,7 +1,7 @@
 import React from 'react';
 import Hero from './Hero';
 import TopSellers from './TopSellers';
-import Recommended from './recommended';
+import Recommended from './Recommended.jsx';
 import News from './News';
 
 
