@@ -5,7 +5,7 @@ import Login from "../components/Login.jsx";
 import Register from "../components/Register.jsx";
 import CartPage from "../pages/Books/CartPage.jsx";
 import Checkout from "../pages/Books/Checkout.jsx";
-import SingleBook from "../pages/Books/singleBook.jsx";
+import SingleBook from "../pages/Books/SingleBook.jsx";
 import PrivateRoute from "./PrivateRoute.jsx";
 import OrderPage from "../pages/Books/OrderPage.jsx";
 import AdminRoute from "./AdminRoutes.jsx";
